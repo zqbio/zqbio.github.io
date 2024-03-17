@@ -61,9 +61,9 @@ I'm part of the [Malab](http://lab.malab.cn/~zq/) 🔬 and supervised by [Quan Z
 
 **Yizheng Wang**, Yixiao Zhai, Yijie Ding\*, Quan Zou\*
 
-**arXiv**
+**Preprint on arXiv**
 
-[Website](http://lab.malab.cn/soft/SBSM-Pro/)
+[Support Bio-sequence Machine Website](http://lab.malab.cn/soft/SBSM-Pro/)
 
   </div>
 </div>
