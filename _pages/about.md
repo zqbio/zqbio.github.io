@@ -67,3 +67,8 @@ My research interest includes neural machine translation and computer vision. I 
 - *2023.07 - (now)*, Postgradute, [Yangtze Delta Region Institute (Quzhou)](http://ydri.uestc.edu.cn), [University of Electronic Science and Technology of China](https://www.uestc.edu.cn).
 - *2022.09 - (now)*, Postgradute, [Institute of Fundamental and Frontier Sciences](https://www.iffs.uestc.edu.cn/), [University of Electronic Science and Technology of China](https://www.uestc.edu.cn). 
 - *2018.09 - 2022.06*, Undergraduate, [School of Information Science and Engineering](http://ise.ysu.edu.cn), [Yanshan University](http://www.ysu.edu.cn). 
+
+# 📖 Talks
+- *2023.07 - (now)*, Postgradute, [Yangtze Delta Region Institute (Quzhou)](http://ydri.uestc.edu.cn), [University of Electronic Science and Technology of China](https://www.uestc.edu.cn).
+- *2022.09 - (now)*, Postgradute, [Institute of Fundamental and Frontier Sciences](https://www.iffs.uestc.edu.cn/), [University of Electronic Science and Technology of China](https://www.uestc.edu.cn). 
+- *2018.09 - 2022.06*, Undergraduate, [School of Information Science and Engineering](http://ise.ysu.edu.cn), [Yanshan University](http://www.ysu.edu.cn). 
