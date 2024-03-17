@@ -17,14 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Yizheng Wang is currently studying for his master's degree in the Institute of Fundamental and Frontier Sciences of University of Electronic Science and Technology of China and he is working at Quan Zou's Lab . His field of study is bioinformatics and he is major in computer science and technology.
+🙋🏼Hello, I'am Yizheng Wang. is currently studying for his master's degree in the Institute of Fundamental and Frontier Sciences of University of Electronic Science and Technology of China and he is working at Quan Zou's Lab . His field of study is bioinformatics and he is major in computer science and technology.
 
 My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=NEWRm1gAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=NEWRm1gAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.03*: &nbsp;🎉🎉 The new personal homepage has been released. 
 
 # 📝 Publications 
 <div class='paper-box'>
@@ -34,7 +33,7 @@ My research interest includes neural machine translation and computer vision. I 
   </div>
   <div class='paper-box-text' markdown="1">
 
-[SBSM-Pro: Support Bio-sequence Machine for Proteins](https://arxiv.org/abs/2308.10275)
+1. [SBSM-Pro: Support Bio-sequence Machine for Proteins](https://arxiv.org/abs/2308.10275)
 
 **Yizheng Wang**, Yixiao Zhai, Yijie Ding\*, Quan Zou\*
 
@@ -49,7 +48,7 @@ My research interest includes neural machine translation and computer vision. I 
       <img src='images/HSICLP.png' alt="sym" width="100%">
   </div>
   <div class='paper-box-text' markdown="1">
-[Identification of human microRNA-disease association via low-rank approximation-based link propagation and multiple kernel learning](https://journal.hep.com.cn/fcs/EN/10.1007/s11704-023-2490-5)
+2. [Identification of human microRNA-disease association via low-rank approximation-based link propagation and multiple kernel learning](https://journal.hep.com.cn/fcs/EN/10.1007/s11704-023-2490-5)
 
 **Yizheng Wang**, Xin Zhang, Ying Ju, Qing Liu, Quan Zou, Yazhou Zhang, Yijie Ding\*, Ying Zhang\*
 
@@ -58,7 +57,7 @@ My research interest includes neural machine translation and computer vision. I 
   </div>
 </div>
 
-- [ET-MSF: A model stacking framework to identify electron transport proteins](https://www.imrpress.com/journal/FBL/27/1/10.31083/j.fbl2701012/htm), **Yizheng Wang**, Qingfeng Pan\*, Xiaobin Liu\*, Yijie Ding\*. **Frontiers in Bioscience-Landmark**, <span style="color:#00369F;">Q3, IF2021=4.009</span> 
+3. [ET-MSF: A model stacking framework to identify electron transport proteins](https://www.imrpress.com/journal/FBL/27/1/10.31083/j.fbl2701012/htm), **Yizheng Wang**, Qingfeng Pan\*, Xiaobin Liu\*, Yijie Ding\*. **Frontiers in Bioscience-Landmark, Q3, IF2021=4.009**
 
 
 # 🎖 Honors and Awards
