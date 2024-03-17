@@ -21,9 +21,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Yizheng Wang \\（王一争）"
+  name             : "Yizheng Wang"
   avatar           : "images/photo.png"
-  bio              : "University of Electronic Science and Technology of China"
+  bio              : "（王一争）"
   location         : "Chengdu, China"
   employer         :
   pubmed           : 
