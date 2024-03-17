@@ -17,16 +17,15 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-
-
 🙋🏼 Hello! My name is Wang Yizheng. 
-I obtained my bachelor's degree 🎓 in Computer Science and Technology 💻 from Yanshan University. 
-Currently, I am pursuing my master's degree 📚 at the University of Electronic Science and Technology🏫, major in Computer Science and Technology 💻 . I'm part of the [Malab](http://lab.malab.cn/~zq/) laboratory 🔬 and mentored by [Zou Quan](http://lab.malab.cn/~zq/). 🌟
 
-Hello, I'am Yizheng Wang. 
+I obtained my bachelor's degree 🎓 in Computer Science and Technology 💻 from [School of Information Science and Engineering](http://ise.ysu.edu.cn), [Yanshan University](http://www.ysu.edu.cn). 
 
+Currently, I am pursuing my master's degree 📚 at the [Institute of Fundamental and Frontier Sciences](https://www.iffs.uestc.edu.cn/), [University of Electronic Science and Technology of China](https://www.uestc.edu.cn)🏫, major in Computer Science and Technology 💻. 
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=NEWRm1gAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=NEWRm1gAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+I'm part of the [Malab](http://lab.malab.cn/~zq/) laboratory 🔬 and mentored by [Zou Quan](http://lab.malab.cn/~zq/). 🌟
+
+My work has already received some citations. <a href='https://scholar.google.com/citations?user=NEWRm1gAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 # 📒 Research Interest
 - Support Bio-sequence Machine
