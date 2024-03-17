@@ -30,7 +30,7 @@ My research interest includes neural machine translation and computer vision. I 
 <div class='paper-box'>
   <div class='paper-box-image'>
       <div class="badge">In progress</div>
-      <img src='images/SBSMPRO.png' alt="sym" width="100%">
+      <img src='images/In Progress.png' alt="sym" width="100%">
   </div>
   <div class='paper-box-text' markdown="1">
 
