@@ -9,12 +9,13 @@ main:
   - title: "Publications"
     url: "/#-publications"
 
+  - title: "Under Review"
+    url: "/#-under-review"
+
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
 
   - title: "Educations"
     url: "/#-educations"
 
-  - title: "TALKS"
-    url: "/#-talks"
 
