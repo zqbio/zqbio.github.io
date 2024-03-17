@@ -33,14 +33,24 @@ My research interest includes neural machine translation and computer vision. I 
       <div class="badge">CCF B</div>
       <img src='images/HSICLP.png' alt="sym" width="100%">
   </div>
+  <div class='paper-box-text' markdown="1">
+[Identification of human microRNA-disease association via low-rank approximation-based link propagation and multiple kernel learning](https://journal.hep.com.cn/fcs/EN/10.1007/s11704-023-2490-5)
+**Yizheng Wang**, Xin Zhang, Ying Ju, Qing Liu, Quan Zou, Yazhou Zhang, Yijie Ding\*, Ying Zhang\*
+**Frontiers of Computer Science**
+  </div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+<!--       <div class="badge">CCF B</div> -->
+      <img src='images/SBSMPRO.png' alt="sym" width="100%">
+  </div>
   
   <div class='paper-box-text' markdown="1">
 
-[Identification of human microRNA-disease association via low-rank approximation-based link propagation and multiple kernel learning](https://journal.hep.com.cn/fcs/EN/10.1007/s11704-023-2490-5)
-
-**Yizheng Wang**, Xin Zhang, Ying Ju, Qing Liu, Quan Zou, Yazhou Zhang, Yijie Ding\*, Ying Zhang\*. 
-
-Frontiers of Computer Science.
+[SBSM-Pro: Support Bio-sequence Machine for Proteins](https://arxiv.org/abs/2308.10275)
+**Yizheng Wang**, Yixiao Zhai, Yijie Ding\*, Quan Zou\*
+**arXiv**
 
   </div>
 </div>
