@@ -25,6 +25,23 @@ My research interest includes neural machine translation and computer vision. I 
 # 🔥 News
 - *2024.03*: &nbsp;🎉🎉 The new personal homepage has been released. 
 
+# 📝 Under review 
+<div class='paper-box'>
+  <div class='paper-box-image'>
+      <div class="badge">Preprint</div>
+      <img src='images/SBSMPRO.png' alt="sym" width="100%">
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+1.[SBSM-Pro: Support Bio-sequence Machine for Proteins](https://arxiv.org/abs/2308.10275)
+
+**Yizheng Wang**, Yixiao Zhai, Yijie Ding\*, Quan Zou\*
+
+**arXiv**
+
+  </div>
+</div>
+
 # 📝 Publications 
 <div class='paper-box'>
   <div class='paper-box-image'>
