@@ -17,11 +17,18 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-🙋🏼Hello, I'am Yizheng Wang. is currently studying for his master's degree in the Institute of Fundamental and Frontier Sciences of University of Electronic Science and Technology of China and he is working at Quan Zou's Lab . His field of study is bioinformatics and he is major in computer science and technology.
+
+
+🙋🏼 Hello! My name is Wang Yizheng. 
+I obtained my bachelor's degree 🎓 in Computer Science and Technology 💻 from Yanshan University. 
+Currently, I am pursuing my master's degree 📚 at the University of Electronic Science and Technology🏫, major in Computer Science and Technology 💻 . I'm part of the [Malab](http://lab.malab.cn/~zq/) laboratory 🔬 and mentored by [Zou Quan](http://lab.malab.cn/~zq/). 🌟
+
+Hello, I'am Yizheng Wang. 
+
 
 My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=NEWRm1gAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=NEWRm1gAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
-# 📖 Research Interest
+# 📒 Research Interest
 - Support Bio-sequence Machine
 - Biological sequence classification
 - Biological interactions prediction
