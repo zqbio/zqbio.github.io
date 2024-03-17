@@ -53,7 +53,7 @@ I'm part of the [Malab](http://lab.malab.cn/~zq/) 🔬 and supervised by [Quan Z
 <div class='paper-box'>
   <div class='paper-box-image'>
       <div class="badge">Under Review</div>
-      <img src='images/SBSMPRO.png' alt="sym" width="100%">
+      <img src='images/SBSMPRO.jpg' alt="sym" width="100%">
   </div>
   <div class='paper-box-text' markdown="1">
 
@@ -71,7 +71,7 @@ I'm part of the [Malab](http://lab.malab.cn/~zq/) 🔬 and supervised by [Quan Z
 <div class='paper-box'>
   <div class='paper-box-image'>
       <div class="badge">CCF B</div>
-      <img src='images/HSICLP.png' alt="sym" width="100%">
+      <img src='images/HSICLP.jpg' alt="sym" width="100%">
   </div>
   <div class='paper-box-text' markdown="1">
 3️⃣ [Identification of human microRNA-disease association via low-rank approximation-based link propagation and multiple kernel learning](https://journal.hep.com.cn/fcs/EN/10.1007/s11704-023-2490-5)
