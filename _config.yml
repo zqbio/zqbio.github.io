@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Yizheng Wang（王一争）"
-description              : "Postgraduate"
+title                    : "Yizheng Wang \\（王一争）"
+description              : "Postgraduate in UESTC. Focusing on bioinformatics and machine learning."
 repository               : "wyzbio/wyzbio.github.io"
 google_scholar_stats_use_cdn : true
 
