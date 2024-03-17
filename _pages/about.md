@@ -63,6 +63,8 @@ I'm part of the [Malab](http://lab.malab.cn/~zq/) 🔬 and supervised by [Quan Z
 
 **Preprint on arXiv**
 
+<strong><span class='show_paper_citations' data='NEWRm1gAAAAJ:u-x6o8ySG0sC'></span></strong>
+
 [Support Bio-sequence Machine Website](http://lab.malab.cn/soft/SBSM-Pro/)
 
   </div>
