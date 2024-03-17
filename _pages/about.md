@@ -58,6 +58,20 @@ My research interest includes neural machine translation and computer vision. I 
   </div>
 </div>
 
+<div class='paper-box'>
+  <div class='paper-box-image'>
+      <div class="badge">CCF B, Q1, IF2022=4.200</div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+[Identification of human microRNA-disease association via low-rank approximation-based link propagation and multiple kernel learning](https://journal.hep.com.cn/fcs/EN/10.1007/s11704-023-2490-5)
+
+**Yizheng Wang**, Xin Zhang, Ying Ju, Qing Liu, Quan Zou, Yazhou Zhang, Yijie Ding\*, Ying Zhang\*
+
+**Frontiers of Computer Science**
+
+  </div>
+</div>
+
 - ``Q3, IF2021=4.009`` [ET-MSF: A model stacking framework to identify electron transport proteins](https://www.imrpress.com/journal/FBL/27/1/10.31083/j.fbl2701012/htm), **Yizheng Wang**, Qingfeng Pan\*, Xiaobin Liu\*, Yijie Ding\*. **Frontiers in Bioscience-Landmark**
 
 # 🎖 Honors and Awards
