@@ -30,13 +30,16 @@ My research interest includes neural machine translation and computer vision. I 
 
 <div class='paper-box'>
   <div class='paper-box-image'>
-      <div class="badge">CCF B</div>
+      <div class="badge">CCF B, Q1, IF=4.200</div>
       <img src='images/HSICLP.png' alt="sym" width="100%">
   </div>
   <div class='paper-box-text' markdown="1">
 [Identification of human microRNA-disease association via low-rank approximation-based link propagation and multiple kernel learning](https://journal.hep.com.cn/fcs/EN/10.1007/s11704-023-2490-5)
+
 **Yizheng Wang**, Xin Zhang, Ying Ju, Qing Liu, Quan Zou, Yazhou Zhang, Yijie Ding\*, Ying Zhang\*
+
 **Frontiers of Computer Science**
+
   </div>
 </div>
 
