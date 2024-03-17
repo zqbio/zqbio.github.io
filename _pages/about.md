@@ -46,6 +46,6 @@ My research interest includes neural machine translation and computer vision. I 
 - *2022.06* Outstanding graduates of Hebei Province, Hebei Provincial Department of Education.
 
 # 📖 Educations
-- *2023.07 - (now)*, Postgradute, [Yangtze Delta Region Institute (Quzhou)](http://ydri.uestc.edu.cn) of University of Electronic Science and Technology of China.
-- *2022.09 - (now)*, Postgradute, [Institute of Fundamental and Frontier Sciences](https://www.iffs.uestc.edu.cn/) of University of Electronic Science and Technology of China. 
-- *2018.09 - 2022.06*, Undergraduate, School of Information Science and Engineering of [Yanshan University](http://www.ysu.edu.cn). 
+- *2023.07 - (now)*, Postgradute, [Yangtze Delta Region Institute (Quzhou)](http://ydri.uestc.edu.cn), [University of Electronic Science and Technology of China](https://www.uestc.edu.cn).
+- *2022.09 - (now)*, Postgradute, [Institute of Fundamental and Frontier Sciences](https://www.iffs.uestc.edu.cn/), [University of Electronic Science and Technology of China](https://www.uestc.edu.cn). 
+- *2018.09 - 2022.06*, Undergraduate, [School of Information Science and Engineering](http://ise.ysu.edu.cn), [Yanshan University](http://www.ysu.edu.cn). 
