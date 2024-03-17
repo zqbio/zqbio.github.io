@@ -42,20 +42,22 @@ My research interest includes neural machine translation and computer vision. I 
 
 <div class='paper-box'>
   <div class='paper-box-image'>
-<!--       <div class="badge">CCF B</div> -->
+      <div class="badge">Preprint</div>
       <img src='images/SBSMPRO.png' alt="sym" width="100%">
   </div>
   
   <div class='paper-box-text' markdown="1">
 
 [SBSM-Pro: Support Bio-sequence Machine for Proteins](https://arxiv.org/abs/2308.10275)
+
 **Yizheng Wang**, Yixiao Zhai, Yijie Ding\*, Quan Zou\*
+
 **arXiv**
 
   </div>
 </div>
 
-- [ET-MSF: A model stacking framework to identify electron transport proteins](https://www.imrpress.com/journal/FBL/27/1/10.31083/j.fbl2701012/htm), **Yizheng Wang**, Qingfeng Pan\*, Xiaobin Liu\*, Yijie Ding\*. **Frontiers in Bioscience-Landmark**
+- [ET-MSF: A model stacking framework to identify electron transport proteins](https://www.imrpress.com/journal/FBL/27/1/10.31083/j.fbl2701012/htm), **Yizheng Wang**, Qingfeng Pan\*, Xiaobin Liu\*, Yijie Ding\*. **Frontiers in Bioscience-Landmark** *Q3,IF2021=4.009*
 
 # 🎖 Honors and Awards
 - *2022.06* Outstanding graduates of Hebei Province, Hebei Provincial Department of Education.
