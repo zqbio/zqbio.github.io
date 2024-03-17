@@ -33,7 +33,7 @@ My research interest includes neural machine translation and computer vision. I 
   </div>
   <div class='paper-box-text' markdown="1">
 
-1. [SBSM-Pro: Support Bio-sequence Machine for Proteins](https://arxiv.org/abs/2308.10275)
+1.[SBSM-Pro: Support Bio-sequence Machine for Proteins](https://arxiv.org/abs/2308.10275)
 
 **Yizheng Wang**, Yixiao Zhai, Yijie Ding\*, Quan Zou\*
 
@@ -48,7 +48,7 @@ My research interest includes neural machine translation and computer vision. I 
       <img src='images/HSICLP.png' alt="sym" width="100%">
   </div>
   <div class='paper-box-text' markdown="1">
-2. [Identification of human microRNA-disease association via low-rank approximation-based link propagation and multiple kernel learning](https://journal.hep.com.cn/fcs/EN/10.1007/s11704-023-2490-5)
+2.[Identification of human microRNA-disease association via low-rank approximation-based link propagation and multiple kernel learning](https://journal.hep.com.cn/fcs/EN/10.1007/s11704-023-2490-5)
 
 **Yizheng Wang**, Xin Zhang, Ying Ju, Qing Liu, Quan Zou, Yazhou Zhang, Yijie Ding\*, Ying Zhang\*
 
@@ -57,7 +57,7 @@ My research interest includes neural machine translation and computer vision. I 
   </div>
 </div>
 
-3. [ET-MSF: A model stacking framework to identify electron transport proteins](https://www.imrpress.com/journal/FBL/27/1/10.31083/j.fbl2701012/htm), **Yizheng Wang**, Qingfeng Pan\*, Xiaobin Liu\*, Yijie Ding\*. **Frontiers in Bioscience-Landmark, Q3, IF2021=4.009**
+3.[ET-MSF: A model stacking framework to identify electron transport proteins](https://www.imrpress.com/journal/FBL/27/1/10.31083/j.fbl2701012/htm), **Yizheng Wang**, Qingfeng Pan\*, Xiaobin Liu\*, Yijie Ding\*. **Frontiers in Bioscience-Landmark, Q3, IF2021=4.009**
 
 
 # 🎖 Honors and Awards
