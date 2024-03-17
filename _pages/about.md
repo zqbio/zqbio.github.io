@@ -83,7 +83,7 @@ I'm part of the [Malab](http://lab.malab.cn/~zq/) 🔬 and supervised by [Quan Z
   </div>
 </div>
 
-4️⃣ [ET-MSF: A model stacking framework to identify electron transport proteins](https://www.imrpress.com/journal/FBL/27/1/10.31083/j.fbl2701012/htm), **Yizheng Wang**, Qingfeng Pan\*, Xiaobin Liu\*, Yijie Ding\*. **Frontiers in Bioscience-Landmark, Q3, IF2021=4.009**
+- 4️⃣ [ET-MSF: A model stacking framework to identify electron transport proteins](https://www.imrpress.com/journal/FBL/27/1/10.31083/j.fbl2701012/htm), **Yizheng Wang**, Qingfeng Pan\*, Xiaobin Liu\*, Yijie Ding\*. **Frontiers in Bioscience-Landmark, Q3, IF2021=4.009**
 
 
 # 🎖 Honors and Awards
