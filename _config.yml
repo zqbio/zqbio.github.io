@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yizheng Wang（王一争）"
-description              : "王一争的个人主页 "
+description              : "Postgraduate"
 repository               : "wyzbio/wyzbio.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "wyzbio"
   google_plus      :
   keybase          :
   instagram        :
@@ -53,7 +53,7 @@ author:
   tumblr           :
   twitter          : 
   vine             :
-  weibo            : 123
+  weibo            : 
   xing             :
   youtube          :
   wikipedia        :
