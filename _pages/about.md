@@ -31,7 +31,8 @@ My research interest includes neural machine translation and computer vision. I 
 <div class='paper-box'>
   <div class='paper-box-image'>
       <div class="badge">CCF B</div>
-      <img src='images/500x300.png' alt="sym" width="100%">
+      <div class="badge">FCS</div>
+      <img src='images/HSICLP.png' alt="sym" width="100%">
   </div>
   
   <div class='paper-box-text' markdown="1">
