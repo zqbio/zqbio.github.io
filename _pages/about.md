@@ -21,6 +21,11 @@ redirect_from:
 
 My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=NEWRm1gAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=NEWRm1gAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
+# 📖 Research Interest
+- Support Bio-sequence Machine
+- Biological sequence classification
+- Biological interactions prediction
+- Multiple sequence alignment
 
 # 🔥 News
 - *2024.03*: &nbsp;🎉🎉 The new personal homepage has been released. 
@@ -54,6 +59,8 @@ My research interest includes neural machine translation and computer vision. I 
 
 **arXiv**
 
+[Website](http://lab.malab.cn/soft/SBSM-Pro/)
+
   </div>
 </div>
 
@@ -83,7 +90,3 @@ My research interest includes neural machine translation and computer vision. I 
 - *2022.09 - (now)*, Postgradute, [Institute of Fundamental and Frontier Sciences](https://www.iffs.uestc.edu.cn/), [University of Electronic Science and Technology of China](https://www.uestc.edu.cn). 
 - *2018.09 - 2022.06*, Undergraduate, [School of Information Science and Engineering](http://ise.ysu.edu.cn), [Yanshan University](http://www.ysu.edu.cn). 
 
-# 📖 Talks
-- *2023.07 - (now)*, Postgradute, [Yangtze Delta Region Institute (Quzhou)](http://ydri.uestc.edu.cn), [University of Electronic Science and Technology of China](https://www.uestc.edu.cn).
-- *2022.09 - (now)*, Postgradute, [Institute of Fundamental and Frontier Sciences](https://www.iffs.uestc.edu.cn/), [University of Electronic Science and Technology of China](https://www.uestc.edu.cn). 
-- *2018.09 - 2022.06*, Undergraduate, [School of Information Science and Engineering](http://ise.ysu.edu.cn), [Yanshan University](http://www.ysu.edu.cn). 
