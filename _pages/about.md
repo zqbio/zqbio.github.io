@@ -26,10 +26,10 @@ Currently, I am pursuing my master's degree 🎓 at the [Institute of Fundamenta
 I am conducting scientific research at the [Malab](http://lab.malab.cn/~zq/) laboratory 🔬 and supervised by [Prof. Quan Zou](http://lab.malab.cn/~zq/) (邹权教授). My main research areas are bioinformatics 🧬 and machine learning 🤖, and some of my work has already been published in SCI journals. <a href='https://scholar.google.com/citations?user=NEWRm1gAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 # 📒 Research Interest
-- Support Bio-sequence Machine
-- Biological sequence classification
-- Biological interactions prediction
-- Multiple sequence alignment
+- Support Bio-sequence Machine (支持生物序列机)
+- Biological sequence classification (生物序列分类)
+- Biological interactions prediction (生物关联预测)
+- Multiple sequence alignment (多序列比对)
 
 # 🔥 News
 - *2024.03*: &nbsp;🎉🎉 The new personal homepage has been released. 
@@ -61,7 +61,7 @@ I am conducting scientific research at the [Malab](http://lab.malab.cn/~zq/) lab
 
 **Yizheng Wang**, Yixiao Zhai, Yijie Ding\*, Quan Zou\*
 
-**Preprint on arXiv**
+*Preprint on arXiv*
 
 [Support Bio-sequence Machine Website](http://lab.malab.cn/soft/SBSM-Pro/)
 
@@ -78,12 +78,12 @@ I am conducting scientific research at the [Malab](http://lab.malab.cn/~zq/) lab
 
 **Yizheng Wang**, Xin Zhang, Ying Ju, Qing Liu, Quan Zou, Yazhou Zhang, Yijie Ding\*, Ying Zhang\*
 
-**Frontiers of Computer Science, Q2, IF2022=4.200**
+*Frontiers of Computer Science, Q2, IF2022=4.200*
 
   </div>
 </div>
 
-- 4️⃣ [ET-MSF: A model stacking framework to identify electron transport proteins](https://www.imrpress.com/journal/FBL/27/1/10.31083/j.fbl2701012/htm), **Yizheng Wang**, Qingfeng Pan\*, Xiaobin Liu\*, Yijie Ding\*. **Frontiers in Bioscience-Landmark, Q3, IF2021=4.009**
+- 4️⃣ [ET-MSF: A model stacking framework to identify electron transport proteins](https://www.imrpress.com/journal/FBL/27/1/10.31083/j.fbl2701012/htm), **Yizheng Wang**, Qingfeng Pan\*, Xiaobin Liu\*, Yijie Ding\*. *Frontiers in Bioscience-Landmark, Q3, IF2021=4.009*
 
 
 # 🎖 Honors and Awards
