@@ -32,7 +32,7 @@ I am conducting scientific research at the [Malab](http://lab.malab.cn/~zq/) lab
 - Multiple sequence alignment (多序列比对)
 
 # 🔥 News
-- *2024.03*: &nbsp;🎉🎉 The new personal homepage has been released. 
+- *2024.03*: 🎉🎉 The new personal homepage has been released. 
 
 # 📝 Publications
 
