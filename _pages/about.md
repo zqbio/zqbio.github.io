@@ -43,7 +43,7 @@ I am conducting scientific research at the [Malab](http://lab.malab.cn/~zq/) lab
   </div>
   <div class='paper-box-text' markdown="1">
 
-1️⃣ [SBNN：Support Bio-sequence Neural Network](https://#)
+1️⃣ [SBNN: Support Bio-sequence Neural Network](https://#)
 
 **Yizheng Wang**, Yijie Ding\*, Quan Zou\*
 
