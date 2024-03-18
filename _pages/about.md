@@ -78,7 +78,7 @@ I am conducting scientific research at the [Malab](http://lab.malab.cn/~zq/) lab
 
 **Yizheng Wang**, Xin Zhang, Ying Ju, Qing Liu, Quan Zou, Yazhou Zhang, Yijie Ding\*, Ying Zhang\*
 
-*Frontiers of Computer Science, Q2, IF2022=4.200*
+*Frontiers of Computer Science, Q1, IF2022=4.200*
 
   </div>
 </div>
