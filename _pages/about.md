@@ -43,9 +43,9 @@ I'm part of the [Malab](http://lab.malab.cn/~zq/) 🔬 and supervised by [Prof. 
   </div>
   <div class='paper-box-text' markdown="1">
 
-- 1️⃣ [SBNN：Support Bio-sequence Neural Network](https://#)
+1️⃣ [SBNN：Support Bio-sequence Neural Network](https://#)
 
-- **Yizheng Wang**, Yijie Ding\*, Quan Zou\*
+**Yizheng Wang**, Yijie Ding\*, Quan Zou\*
 
   </div>
 </div>
@@ -57,13 +57,13 @@ I'm part of the [Malab](http://lab.malab.cn/~zq/) 🔬 and supervised by [Prof. 
   </div>
   <div class='paper-box-text' markdown="1">
 
-- 2️⃣ [SBSM-Pro: Support Bio-sequence Machine for Proteins](https://arxiv.org/abs/2308.10275)
+2️⃣ [SBSM-Pro: Support Bio-sequence Machine for Proteins](https://arxiv.org/abs/2308.10275)
 
-- **Yizheng Wang**, Yixiao Zhai, Yijie Ding\*, Quan Zou\*
+**Yizheng Wang**, Yixiao Zhai, Yijie Ding\*, Quan Zou\*
 
-- **Preprint on arXiv**
+**Preprint on arXiv**
 
-- [Support Bio-sequence Machine Website](http://lab.malab.cn/soft/SBSM-Pro/)
+[Support Bio-sequence Machine Website](http://lab.malab.cn/soft/SBSM-Pro/)
 
   </div>
 </div>
@@ -74,11 +74,11 @@ I'm part of the [Malab](http://lab.malab.cn/~zq/) 🔬 and supervised by [Prof. 
       <img src='images/HSICLP.jpg' alt="sym" width="100%">
   </div>
   <div class='paper-box-text' markdown="1">
-- 3️⃣ [Identification of human microRNA-disease association via low-rank approximation-based link propagation and multiple kernel learning](https://journal.hep.com.cn/fcs/EN/10.1007/s11704-023-2490-5)
+3️⃣ [Identification of human microRNA-disease association via low-rank approximation-based link propagation and multiple kernel learning](https://journal.hep.com.cn/fcs/EN/10.1007/s11704-023-2490-5)
 
-- **Yizheng Wang**, Xin Zhang, Ying Ju, Qing Liu, Quan Zou, Yazhou Zhang, Yijie Ding\*, Ying Zhang\*
+**Yizheng Wang**, Xin Zhang, Ying Ju, Qing Liu, Quan Zou, Yazhou Zhang, Yijie Ding\*, Ying Zhang\*
 
-- **Frontiers of Computer Science, Q2, IF2022=4.200**
+**Frontiers of Computer Science, Q2, IF2022=4.200**
 
   </div>
 </div>
