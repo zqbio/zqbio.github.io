@@ -36,6 +36,24 @@ I am conducting scientific research at the [Malab](http://lab.malab.cn/~zq/) lab
 
 # 📝 Publications
 
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+      <div class="badge">In progress</div>
+      <img src='images/In Progress.jpg' alt="sym" width="100%">
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+1️⃣ [SSM: Support Subsequence Machine](https://#)
+
+**Yizheng Wang**, Yijie Ding\*, Quan Zou\*
+
+[SSM: Support Subsequence Machine](http://http://lab.malab.cn/soft/SSM/)
+
+  </div>
+</div>
+
+
 <div class='paper-box'>
   <div class='paper-box-image'>
       <div class="badge">In progress</div>
