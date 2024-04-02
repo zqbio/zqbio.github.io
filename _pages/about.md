@@ -36,7 +36,6 @@ I am conducting scientific research at the [Malab](http://lab.malab.cn/~zq/) lab
 
 # 📝 Publications
 
-
 <div class='paper-box'>
   <div class='paper-box-image'>
       <div class="badge">In progress</div>
@@ -48,7 +47,7 @@ I am conducting scientific research at the [Malab](http://lab.malab.cn/~zq/) lab
 
 **Yizheng Wang**, Yijie Ding\*, Quan Zou\*
 
-[Support Subsequence Machine Website](http://lab.malab.cn/soft/SSM/)
+[🌐 Website](http://lab.malab.cn/soft/SSM/)
 
   </div>
 </div>
@@ -81,7 +80,7 @@ I am conducting scientific research at the [Malab](http://lab.malab.cn/~zq/) lab
 
 *Preprint on arXiv*
 
-[Support Bio-sequence Machine Website](http://lab.malab.cn/soft/SBSM-Pro/)
+[🌐 Website](http://lab.malab.cn/soft/SBSM-Pro/)
 
   </div>
 </div>
@@ -92,6 +91,7 @@ I am conducting scientific research at the [Malab](http://lab.malab.cn/~zq/) lab
       <img src='images/HSICLP.jpg' alt="sym" width="100%">
   </div>
   <div class='paper-box-text' markdown="1">
+    
 4️⃣ [Identification of human microRNA-disease association via low-rank approximation-based link propagation and multiple kernel learning](https://journal.hep.com.cn/fcs/EN/10.1007/s11704-023-2490-5)
 
 **Yizheng Wang**, Xin Zhang, Ying Ju, Qing Liu, Quan Zou, Yazhou Zhang, Yijie Ding\*, Ying Zhang\*
