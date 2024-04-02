@@ -48,7 +48,7 @@ I am conducting scientific research at the [Malab](http://lab.malab.cn/~zq/) lab
 
 **Yizheng Wang**, Yijie Ding\*, Quan Zou\*
 
-[SSM: Support Subsequence Machine](http://http://lab.malab.cn/soft/SSM/)
+[Support Subsequence Machine Website](http://lab.malab.cn/soft/SSM/)
 
   </div>
 </div>
