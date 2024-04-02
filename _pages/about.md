@@ -47,7 +47,7 @@ I am conducting scientific research at the [Malab](http://lab.malab.cn/~zq/) lab
 
 **Yizheng Wang**, Yijie Ding\*, Quan Zou\*
 
-[🌐 Website](http://lab.malab.cn/soft/SSM/)
+🌐 [Website](http://lab.malab.cn/soft/SSM/)
 
   </div>
 </div>
@@ -80,7 +80,7 @@ I am conducting scientific research at the [Malab](http://lab.malab.cn/~zq/) lab
 
 *Preprint on arXiv*
 
-[🌐 Website](http://lab.malab.cn/soft/SBSM-Pro/)
+[Website](http://lab.malab.cn/soft/SBSM-Pro/) 🌐
 
   </div>
 </div>
