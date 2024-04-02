@@ -78,9 +78,9 @@ I am conducting scientific research at the [Malab](http://lab.malab.cn/~zq/) lab
 
 **Yizheng Wang**, Yixiao Zhai, Yijie Ding\*, Quan Zou\*
 
-*Preprint on arXiv*
+*Preprint on arXiv & Under review*
 
-[Website](http://lab.malab.cn/soft/SBSM-Pro/) 🌐
+🌐 [Website](http://lab.malab.cn/soft/SBSM-Pro/)
 
   </div>
 </div>
