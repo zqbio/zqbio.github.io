@@ -56,7 +56,7 @@ I am conducting scientific research at the [Malab](http://lab.malab.cn/~zq/) lab
 <div class='paper-box'>
   <div class='paper-box-image'>
       <div class="badge">In progress</div>
-      <img src='images/In Progress.jpg' alt="sym" width="100%">
+      <img src='images/SBNN.jpg' alt="sym" width="100%">
   </div>
   <div class='paper-box-text' markdown="1">
 
@@ -70,7 +70,7 @@ I am conducting scientific research at the [Malab](http://lab.malab.cn/~zq/) lab
 <div class='paper-box'>
   <div class='paper-box-image'>
       <div class="badge">Under Review</div>
-      <img src='images/SBNN.jpg' alt="sym" width="100%">
+      <img src='images/SBSMPRO.jpg' alt="sym" width="100%">
   </div>
   <div class='paper-box-text' markdown="1">
 
