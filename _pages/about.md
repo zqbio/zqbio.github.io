@@ -26,10 +26,11 @@ Currently, I am pursuing my master's degree 🎓 at the [Institute of Fundamenta
 I am conducting scientific research at the [Malab](http://lab.malab.cn/~zq/) laboratory 🔬 and supervised by [Prof. Quan Zou](http://lab.malab.cn/~zq/) (邹权教授). My main research areas are bioinformatics 🧬 and machine learning 🤖, and some of my work has already been published in SCI journals. <a href='https://scholar.google.com/citations?user=NEWRm1gAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 # 📒 Research Interest
-- Support Bio-sequence Machine (支持生物序列机)
+- Support bio-sequence machine (支持生物序列机)
 - Biological sequence classification (生物序列分类)
 - Biological interactions prediction (生物关联预测)
 - Multiple sequence alignment (多序列比对)
+- Deep learning (深度学习)
 
 # 🔥 News
 - *2024.03*: The new personal homepage has been released.🎉🎉 
