@@ -33,7 +33,7 @@ I am conducting scientific research at the [Malab](http://lab.malab.cn/~zq/) lab
 - Deep learning (深度学习)
 
 # 🔥 News
-- *2024.03.06*: The new personal homepage has been released.🎉🎉 
+- *2024.03.17*: The new personal homepage has been released.🎉🎉 
 
 # 📝 Publications
 
