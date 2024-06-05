@@ -19,24 +19,24 @@ redirect_from:
 
 🙋🏼 Hello! I am Yizheng Wang (王一争). 
 
-I obtained my bachelor's degree 🎓 in Computer Science and Technology 💻 from [School of Information Science and Engineering](http://ise.ysu.edu.cn), [Yanshan University](http://www.ysu.edu.cn).
+I obtained my bachelor's degree 🎓 in Computer Science and Technology 💻 from [School of Information Science and Engineering](http://ise.ysu.edu.cn), [Yanshan University](http://www.ysu.edu.cn) (燕山大学，信息科学与工程学院).
 
-Currently, I am pursuing my master's degree 🎓 at the [Institute of Fundamental and Frontier Sciences](https://www.iffs.uestc.edu.cn/), [University of Electronic Science and Technology of China](https://www.uestc.edu.cn), major in Computer Science and Technology 💻. I am also part of a joint training program at the [Yangtze Delta Region Institute (Quzhou)](http://ydri.uestc.edu.cn), [University of Electronic Science and Technology of China](https://www.uestc.edu.cn).
+Currently, I am pursuing my master's degree 🎓 at the [Institute of Fundamental and Frontier Sciences](https://www.iffs.uestc.edu.cn/), [University of Electronic Science and Technology of China](https://www.uestc.edu.cn) (电子科技大学，基础与前沿研究院), major in Computer Science and Technology 💻. I am also part of a joint training program at the [Yangtze Delta Region Institute (Quzhou)](http://ydri.uestc.edu.cn), [University of Electronic Science and Technology of China](https://www.uestc.edu.cn) (电子科技大学，长三角研究院).
 
-I am conducting scientific research at the [Malab](http://lab.malab.cn/~zq/) laboratory 🔬 and supervised by [Prof. Quan Zou](http://lab.malab.cn/~zq/) . My main research areas are bioinformatics 🧬 and machine learning 🤖, and some of my work has already been published in SCI journals. <a href='https://scholar.google.com/citations?user=NEWRm1gAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
+I am conducting scientific research at the [Malab](http://lab.malab.cn/~zq/) laboratory 🔬 and supervised by [Prof. Quan Zou](http://lab.malab.cn/~zq/) (邹权教授). My main research areas are bioinformatics 🧬 and machine learning 🤖, and some of my work has already been published in SCI journals. <a href='https://scholar.google.com/citations?user=NEWRm1gAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 # 📒 Research Interest
-- Support bio-sequence machine
-- Biological sequence classification
-- Biological interactions prediction
-- Multiple sequence alignment
-- Deep learning
+- Support bio-sequence machine (支持生物序列机)
+- Biological sequence classification (生物序列分类)
+- Biological interactions prediction (生物关联预测)
+- Multiple sequence alignment (多序列比对)
+- Deep learning (深度学习)
 
 # 🔥 News
 - *2024.05.30*: I have completed the Ph.D. interview 👨‍🎓 at UESTC and am about to become a Ph.D. student! 🎉🎉
 - *2024.03.17*: The new personal homepage 🌐 has been released.🎉🎉
 
-# 📝 Publications
+# 📝 Projects
 
 <div class='paper-box'>
   <div class='paper-box-image'>
@@ -107,12 +107,10 @@ I am conducting scientific research at the [Malab](http://lab.malab.cn/~zq/) lab
 
 - 5️⃣ [ET-MSF: A model stacking framework to identify electron transport proteins](https://www.imrpress.com/journal/FBL/27/1/10.31083/j.fbl2701012/htm), **Yizheng Wang**, Qingfeng Pan\*, Xiaobin Liu\*, Yijie Ding\*. *Frontiers in Bioscience-Landmark, Q3, IF2021=4.009*
 
-
 # 🎖 Honors and Awards
-- *2022.06*: Outstanding graduates of Hebei Province, Hebei Provincial Department of Education.
+- *2022.06*: Outstanding graduates of Hebei Province (河北省优秀毕业生), Hebei Provincial Department of Education (河北省教育厅).
 
 # 📖 Educations
-- *2023.07 - (now)*: Postgraduate, [Yangtze Delta Region Institute (Quzhou)](http://ydri.uestc.edu.cn), [University of Electronic Science and Technology of China](https://www.uestc.edu.cn).
-- *2022.09 - (now)*: Postgraduate, [Institute of Fundamental and Frontier Sciences](https://www.iffs.uestc.edu.cn/), [University of Electronic Science and Technology of China](https://www.uestc.edu.cn). 
-- *2018.09 - 2022.06*: Undergraduate, [School of Information Science and Engineering](http://ise.ysu.edu.cn), [Yanshan University](http://www.ysu.edu.cn). 
-
+- *2023.07 - (now)*: Postgraduate, [Yangtze Delta Region Institute (Quzhou)](http://ydri.uestc.edu.cn), [University of Electronic Science and Technology of China](https://www.uestc.edu.cn) (电子科技大学，长三角研究院).
+- *2022.09 - (now)*: Postgraduate, [Institute of Fundamental and Frontier Sciences](https://www.iffs.uestc.edu.cn/), [University of Electronic Science and Technology of China](https://www.uestc.edu.cn) (电子科技大学，基础与前沿研究院). 
+- *2018.09 - 2022.06*: Undergraduate, [School of Information Science and Engineering](http://ise.ysu.edu.cn), [Yanshan University](http://www.ysu.edu.cn) (燕山大学，信息科学与工程学院). 
