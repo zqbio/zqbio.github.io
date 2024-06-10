@@ -90,7 +90,7 @@ I am conducting scientific research at the [Malab](http://lab.malab.cn/~zq/) lab
 
 <div class='paper-box'>
   <div class='paper-box-image'>
-      <div class="badge">CCF B</div>
+      <div class="badge_imp">CCF B</div>
       <img src='images/HSICLP.jpg' alt="sym" width="100%">
   </div>
   <div class='paper-box-text' markdown="1">
