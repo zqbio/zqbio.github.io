@@ -103,11 +103,11 @@
       {% if author.vine %}
         <li><a href="https://vine.co/u/{{ author.vine }}"><i class="fab fa-fw fa-vine" aria-hidden="true"></i> Vine</a></li>
       {% endif %}
-      {% if author.googlescholar %}
-        <li><a href="{{ author.googlescholar }}"><i class="fas fa-fw fa-graduation-cap"></i> Google Scholar</a></li>
-      {% endif %}
       {% if author.gitee %}
         <li><a href="https://gitee.com/{{ author.gitee }}"><i class="fab fa-fw fa-git" aria-hidden="true"></i> Gitee</a></li>
+      {% endif %}
+      {% if author.googlescholar %}
+        <li><a href="{{ author.googlescholar }}"><i class="fas fa-fw fa-graduation-cap"></i> Google Scholar</a></li>
       {% endif %}
       {% if author.zhihu %}
         <li><a href="https://www.zhihu.com/people/{{ author.zhihu }}"><i class="fab fa-fw fa-zhihu" aria-hidden="true"></i> Zhihu</a></li>
