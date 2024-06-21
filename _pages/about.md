@@ -140,9 +140,10 @@ I am conducting scientific research at the [Malab](http://lab.malab.cn/~zq/) lab
 - *2022.06*: Outstanding graduates of Hebei Province (河北省优秀毕业生), Hebei Provincial Department of Education (河北省教育厅).
 
 # 📖 Educations
-- *2023.07 - (now)*: &nbsp;<img src='./images/uestc.jpg' style='width: 6em;'>&nbsp; Postgraduate, [Yangtze Delta Region Institute (Quzhou)](http://ydri.uestc.edu.cn), [University of Electronic Science and Technology of China](https://www.uestc.edu.cn) (电子科技大学，长三角研究院).
-- *2022.09 - (now)*: &nbsp;<img src='./images/uestc.jpg' style='width: 6em;'>&nbsp; Postgraduate, [Institute of Fundamental and Frontier Sciences](https://www.iffs.uestc.edu.cn/), [University of Electronic Science and Technology of China](https://www.uestc.edu.cn) (电子科技大学，基础与前沿研究院). 
-- *2018.09 - 2022.06*: &nbsp;<img src='./images/ysu.jpg' style='width: 4.5em;'>&nbsp; Undergraduate, [School of Information Science and Engineering](http://ise.ysu.edu.cn), [Yanshan University](http://www.ysu.edu.cn) (燕山大学，信息科学与工程学院). 
+- *2023.07 - (now)*: Postgraduate, [Yangtze Delta Region Institute (Quzhou)](http://ydri.uestc.edu.cn), [University of Electronic Science and Technology of China](https://www.uestc.edu.cn) (电子科技大学，长三角研究院). &nbsp;<img src='./images/uestc.jpg' style='width: 6em;'>&nbsp; 
+- *2022.09 - (now)*: Postgraduate, [Institute of Fundamental and Frontier Sciences](https://www.iffs.uestc.edu.cn/), [University of Electronic Science and Technology of China](https://www.uestc.edu.cn) (电子科技大学，基础与前沿研究院). &nbsp;<img src='./images/uestc.jpg' style='width: 6em;'>&nbsp;
+- *2018.09 - 2022.06*: Undergraduate, [School of Information Science and Engineering](http://ise.ysu.edu.cn), [Yanshan University](http://www.ysu.edu.cn) (燕山大学，信息科学与工程学院). &nbsp;<img src='./images/ysu.jpg' style='width: 4.5em;'>&nbsp;
+- *2015.09 - 2018.06*: Senior high school student, [Hebei Zhengding High School](http://www.zhengzhong.cn/home.html) (河北正定中学东校区). &nbsp;<img src='./images/zz.jpg' style='width: 4.5em;'>&nbsp;
 
 <br>
 <div align="center">
