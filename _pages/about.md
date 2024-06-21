@@ -19,7 +19,7 @@ redirect_from:
 
 🙋🏼 Hello! I am Yizheng Wang (王一争). 
 
-I obtained my bachelor's degree 🎓 in Computer Science and Technology 💻 from the &nbsp;<img src='./images/ysu.jpg' style='height: 1em;'>&nbsp;&nbsp;<img src='./images/ysu.jpg' style='width: 1.5em;'>&nbsp;&nbsp;<img src='./images/ysu.jpg' style='width: 2em;'>&nbsp;&nbsp;<img src='./images/ysu.jpg' style='width: 4.5em;'>&nbsp; [School of Information Science and Engineering](http://ise.ysu.edu.cn), [Yanshan University](http://www.ysu.edu.cn) (燕山大学，信息科学与工程学院).
+I obtained my bachelor's degree 🎓 in Computer Science and Technology 💻 from the &nbsp;<img src='./images/ysu.jpg' style='height: 1em;'>&nbsp;&nbsp;<img src='./images/ysu.jpg' style='height: 1.5em;'>&nbsp;&nbsp;<img src='./images/ysu.jpg' style='height: 2em;'>&nbsp;&nbsp;<img src='./images/ysu.jpg' style='width: 4.5em;'>&nbsp; [School of Information Science and Engineering](http://ise.ysu.edu.cn), [Yanshan University](http://www.ysu.edu.cn) (燕山大学，信息科学与工程学院).
 
 Currently, I am pursuing my master's degree 🎓 at the &nbsp;<img src='./images/uestc.jpg' style='width: 6em;'>&nbsp; [Institute of Fundamental and Frontier Sciences](https://www.iffs.uestc.edu.cn/), [University of Electronic Science and Technology of China](https://www.uestc.edu.cn) (电子科技大学，基础与前沿研究院), majoring in Computer Science and Technology 💻. I am also part of a joint training program at the &nbsp;<img src='./images/uestc.jpg' style='width: 6em;'>&nbsp; [Yangtze Delta Region Institute (Quzhou)](http://ydri.uestc.edu.cn), [University of Electronic Science and Technology of China](https://www.uestc.edu.cn) (电子科技大学，长三角研究院).
 
