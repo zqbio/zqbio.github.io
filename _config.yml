@@ -22,8 +22,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Yizheng Wang"
+  chinese_name     : "王一争（右一）"
   avatar           : "images/photo.png"
-  bio              : "（王一争）"
+  bio              : 
   location         : "Chengdu, China"
   employer         :
   pubmed           : 
