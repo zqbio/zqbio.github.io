@@ -134,7 +134,7 @@ I am conducting scientific research at the [Malab](http://lab.malab.cn/~zq/) lab
 <!-- End Projects -->
 
 
-- 6️⃣ [ET-MSF: A model stacking framework to identify electron transport proteins](https://www.imrpress.com/journal/FBL/27/1/10.31083/j.fbl2701012/htm), **Yizheng Wang**, Qingfeng Pan\*, Xiaobin Liu\*, Yijie Ding\*. *Frontiers in Bioscience-Landmark, Q3, IF2021=4.009*
+- 6️⃣ [ET-MSF: A model stacking framework to identify electron transport proteins](https://www.imrpress.com/journal/FBL/27/1/10.31083/j.fbl2701012/htm), **Yizheng Wang**, Qingfeng Pan\*, Xiaobin Liu\*, Yijie Ding\*. *Frontiers in Bioscience-Landmark, Q2, IF2021=4.009*
 
 # 🎖 Honors and Awards
 - *2022.06*: Outstanding graduates of Hebei Province (河北省优秀毕业生), Hebei Provincial Department of Education (河北省教育厅).
