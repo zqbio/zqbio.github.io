@@ -38,21 +38,6 @@ I am conducting scientific research at the [Malab](http://lab.malab.cn/~zq/) lab
 
 # 📝 Projects
 
-<div class='paper-box'>
-  <div class='paper-box-image'>
-      <div class="badge">In progress</div>
-      <img src='images/In Progress.jpg' alt="sym" width="100%">
-  </div>
-  <div class='paper-box-text' markdown="1">
-
-1️⃣ [SSM: Support Subsequence Machine](https://#)
-
-**Yizheng Wang**, Yijie Ding\*, Quan Zou\*
-
-🌐 [Website](http://lab.malab.cn/soft/SSM/)
-
-  </div>
-</div>
 
 
 <div class='paper-box'>
@@ -62,7 +47,7 @@ I am conducting scientific research at the [Malab](http://lab.malab.cn/~zq/) lab
   </div>
   <div class='paper-box-text' markdown="1">
 
-2️⃣ [SBNN: Support Bio-sequence Neural Network](https://#)
+1️⃣ [SBNN: Support Bio-sequence Neural Network](#)
 
 **Yizheng Wang**, Yijie Ding\*, Quan Zou\*
 
@@ -77,7 +62,43 @@ I am conducting scientific research at the [Malab](http://lab.malab.cn/~zq/) lab
   <div class='paper-box-text' markdown="1">
 
 
-3️⃣ [SBSM-Pro: Support Bio-sequence Machine for Proteins](https://arxiv.org/abs/2308.10275)
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+      <div class="badge">In progress</div>
+      <img src='images/DeepKernelSBSM.jpg' alt="sym" width="100%">
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+2️⃣ [DeepKernelSBSM: A High-Accuracy Explicit Deep Kernel Function Construction Method Based on Triplet Network](#)
+
+**Yizheng Wang**, Yijie Ding\*, Quan Zou\*
+
+  </div>
+</div>
+
+
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+      <div class="badge">In progress</div>
+      <img src='images/In Progress.jpg' alt="sym" width="100%">
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+3️⃣ [SSM: Support Subsequence Machine](#)
+
+**Yizheng Wang**, Yijie Ding\*, Quan Zou\*
+
+🌐 [Website](http://lab.malab.cn/soft/SSM/)
+
+  </div>
+</div>
+
+
+
+
+4️⃣ [SBSM-Pro: Support Bio-sequence Machine for Proteins](https://arxiv.org/abs/2308.10275)
 
 **Yizheng Wang**, Yixiao Zhai, Yijie Ding\*, Quan Zou\*
 
@@ -97,7 +118,7 @@ I am conducting scientific research at the [Malab](http://lab.malab.cn/~zq/) lab
   <div class='paper-box-text' markdown="1">
 
 
-4️⃣ [Identification of human microRNA-disease association via low-rank approximation-based link propagation and multiple kernel learning](https://journal.hep.com.cn/fcs/EN/10.1007/s11704-023-2490-5)
+5️⃣ [Identification of human microRNA-disease association via low-rank approximation-based link propagation and multiple kernel learning](https://journal.hep.com.cn/fcs/EN/10.1007/s11704-023-2490-5)
 
 **Yizheng Wang**, Xin Zhang, Ying Ju, Qing Liu, Quan Zou, Yazhou Zhang, Yijie Ding\*, Ying Zhang\*
 
@@ -106,7 +127,7 @@ I am conducting scientific research at the [Malab](http://lab.malab.cn/~zq/) lab
   </div>
 </div>
 
-- 5️⃣ [ET-MSF: A model stacking framework to identify electron transport proteins](https://www.imrpress.com/journal/FBL/27/1/10.31083/j.fbl2701012/htm), **Yizheng Wang**, Qingfeng Pan\*, Xiaobin Liu\*, Yijie Ding\*. *Frontiers in Bioscience-Landmark, Q3, IF2021=4.009*
+- 6️⃣ [ET-MSF: A model stacking framework to identify electron transport proteins](https://www.imrpress.com/journal/FBL/27/1/10.31083/j.fbl2701012/htm), **Yizheng Wang**, Qingfeng Pan\*, Xiaobin Liu\*, Yijie Ding\*. *Frontiers in Bioscience-Landmark, Q3, IF2021=4.009*
 
 # 🎖 Honors and Awards
 - *2022.06*: Outstanding graduates of Hebei Province (河北省优秀毕业生), Hebei Provincial Department of Education (河北省教育厅).
