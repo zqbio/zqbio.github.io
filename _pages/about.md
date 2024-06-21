@@ -143,3 +143,5 @@ I am conducting scientific research at the [Malab](http://lab.malab.cn/~zq/) lab
 - *2023.07 - (now)*: Postgraduate, [Yangtze Delta Region Institute (Quzhou)](http://ydri.uestc.edu.cn), [University of Electronic Science and Technology of China](https://www.uestc.edu.cn) (电子科技大学，长三角研究院).
 - *2022.09 - (now)*: Postgraduate, [Institute of Fundamental and Frontier Sciences](https://www.iffs.uestc.edu.cn/), [University of Electronic Science and Technology of China](https://www.uestc.edu.cn) (电子科技大学，基础与前沿研究院). 
 - *2018.09 - 2022.06*: Undergraduate, [School of Information Science and Engineering](http://ise.ysu.edu.cn), [Yanshan University](http://www.ysu.edu.cn) (燕山大学，信息科学与工程学院). 
+
+🆕 Last updated: Jun, 24, 2024
