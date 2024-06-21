@@ -39,7 +39,7 @@ I am conducting scientific research at the [Malab](http://lab.malab.cn/~zq/) lab
 # 📝 Projects
 
 
-
+<!-- Start Projects -->
 <div class='paper-box'>
   <div class='paper-box-image'>
       <div class="badge">In progress</div>
@@ -53,16 +53,10 @@ I am conducting scientific research at the [Malab](http://lab.malab.cn/~zq/) lab
 
   </div>
 </div>
-
-<div class='paper-box'>
-  <div class='paper-box-image'>
-      <div class="badge">Under Review</div>
-      <img src='images/SBSMPRO.jpg' alt="sym" width="100%">
-  </div>
-  <div class='paper-box-text' markdown="1">
+<!-- End Projects -->
 
 
-
+<!-- Start Projects -->
 <div class='paper-box'>
   <div class='paper-box-image'>
       <div class="badge">In progress</div>
@@ -76,9 +70,10 @@ I am conducting scientific research at the [Malab](http://lab.malab.cn/~zq/) lab
 
   </div>
 </div>
+<!-- End Projects -->
 
 
-
+<!-- Start Projects -->
 <div class='paper-box'>
   <div class='paper-box-image'>
       <div class="badge">In progress</div>
@@ -94,8 +89,16 @@ I am conducting scientific research at the [Malab](http://lab.malab.cn/~zq/) lab
 
   </div>
 </div>
+<!-- End Projects -->
 
 
+<!-- Start Projects -->
+<div class='paper-box'>
+  <div class='paper-box-image'>
+      <div class="badge">Under Review</div>
+      <img src='images/SBSMPRO.jpg' alt="sym" width="100%">
+  </div>
+  <div class='paper-box-text' markdown="1">
 
 
 4️⃣ [SBSM-Pro: Support Bio-sequence Machine for Proteins](https://arxiv.org/abs/2308.10275)
@@ -108,8 +111,10 @@ I am conducting scientific research at the [Malab](http://lab.malab.cn/~zq/) lab
 
   </div>
 </div>
+<!-- End Projects -->
 
 
+<!-- Start Projects -->
 <div class='paper-box'>
   <div class='paper-box-image'>
       <div class="badge">CCF B</div>
@@ -126,6 +131,8 @@ I am conducting scientific research at the [Malab](http://lab.malab.cn/~zq/) lab
 
   </div>
 </div>
+<!-- End Projects -->
+
 
 - 6️⃣ [ET-MSF: A model stacking framework to identify electron transport proteins](https://www.imrpress.com/journal/FBL/27/1/10.31083/j.fbl2701012/htm), **Yizheng Wang**, Qingfeng Pan\*, Xiaobin Liu\*, Yijie Ding\*. *Frontiers in Bioscience-Landmark, Q3, IF2021=4.009*
 
