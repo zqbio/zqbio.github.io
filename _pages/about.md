@@ -22,7 +22,7 @@ Some of my work has already been published in SCI journals. <a href='https://sch
 Number: <a href='https://scholar.google.com/citations?user=RcaUHs4AAAAJ'><strong><span id='total_cit'></span></strong></a>
 
 # 📒 Research Interest
-
+<strong><span class='show_paper_citations' data='RcaUHs4AAAAJ:SpbQ_efOBbkC'></span></strong>
 # 🔥 News
 
 # 📝 Publications
