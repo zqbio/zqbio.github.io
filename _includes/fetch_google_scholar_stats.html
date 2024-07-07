@@ -13,6 +13,7 @@
                 var paperId = element.getAttribute('data');
                 var numCitations = data['publications'][paperId]['num_citations'];
                 element.textContent = numCitations;
+                element.setAttribute('data-citations', numCitations);
             });
         });
     });
