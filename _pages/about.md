@@ -19,6 +19,8 @@ redirect_from:
 
 Some of my work has already been published in SCI journals. <a href='https://scholar.google.com/citations?user=RcaUHs4AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
+Number: <a href='https://scholar.google.com/citations?user=RcaUHs4AAAAJ'>google scholar citations<strong><span id='total_cit'>222+</span></strong></a>
+
 # 📒 Research Interest
 
 # 🔥 News
