@@ -1,0 +1,35 @@
+name: Get Citation Data
+
+on: 
+  schedule:
+    - cron:  '0 8 * * *'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.8'  # 确保使用适当版本的Python
+    - name: Install Dependencies
+      run: |
+        python -m venv venv  # 创建虚拟环境
+        source venv/bin/activate  # 激活虚拟环境
+        pip install --upgrade pip
+        pip install -r google_scholar_crawler/requirements.txt  # 安装依赖
+    - name: Run
+      run: |
+        source venv/bin/activate  # 激活虚拟环境
+        cd google_scholar_crawler
+        python main.py
+        cd ../results
+        git init
+        git config --local user.name "${GITHUB_ACTOR}"
+        export remote_repo="https://${GITHUB_ACTOR}:${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git"
+        git add *.json
+        git commit -m "Updated Citation Data"
+        git push "${remote_repo}" HEAD:google-scholar-stats --force
+      env: 
+        GOOGLE_SCHOLAR_ID: ${{ secrets.GOOGLE_SCHOLAR_ID }}
