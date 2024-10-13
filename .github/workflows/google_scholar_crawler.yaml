@@ -1,24 +1,30 @@
 name: Get Citation Data
 
 on: 
- page_build: 
- schedule:
-  - cron:  '0 8 * * *'
+  schedule:
+    - cron:  '0 8 * * *'
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
-    - name: Install Reqs
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.x'  # 确保使用适当版本的Python
+    - name: Install Dependencies
       run: |
-        sudo apt-get install python3-setuptools
+        python -m venv venv  # 创建虚拟环境
+        source venv/bin/activate  # 激活虚拟环境
+        pip install --upgrade pip
+        pip install -r google_scholar_crawler/requirements.txt  # 安装依赖
     - name: Run
       run: |
-        cd ./google_scholar_crawler
-        pip3 install -r requirements.txt
-        python3 main.py
-        cd ./results
+        source venv/bin/activate  # 激活虚拟环境
+        cd google_scholar_crawler
+        python main.py
+        cd ../results
         git init
         git config --local user.name "${GITHUB_ACTOR}"
         export remote_repo="https://${GITHUB_ACTOR}:${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git"
